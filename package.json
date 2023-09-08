@@ -1,0 +1,16 @@
+{
+  "name": "fisune",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "rickroll": "electron src"
+  },
+  "license": "MIT",
+  "bin": {
+    "fisune": "./fisune.js"
+  },
+  "dependencies": {
+    "electron": "^26.2.0",
+    "shelljs": "^0.8.5"
+  }
+}
